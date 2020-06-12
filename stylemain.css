@@ -19,6 +19,9 @@ header
 {
     color: rgb(255, 255, 255);
     background-color: rgba(39, 39, 39, 0.705);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 footer
 {
@@ -31,6 +34,7 @@ table
 {
     margin: 40px;
     padding: 30px;
+    table-layout: fixed;
 }
 table tr td 
 {
