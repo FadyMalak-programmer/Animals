@@ -1,0 +1,56 @@
+body 
+{
+    background-image: url(Background-Pics-HD-001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+h1
+{
+    padding: 20px;
+    margin: 0;
+    scroll-behavior: smooth;
+    text-transform:uppercase ;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+header
+{
+    color: rgb(255, 255, 255);
+    background-color: rgba(39, 39, 39, 0.705);
+}
+footer
+{
+    text-size-adjust: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(39, 39, 39, 0.705);
+}
+table 
+{
+    margin: 40px;
+    padding: 30px;
+}
+table tr td 
+{
+    text-align: center;
+    font-size: 30px;
+}
+.td 
+{
+    margin: 20px;
+    padding: 50px;
+}
+a
+{
+    color: white;
+}
+img
+{
+    border-radius: 10px;
+}
+.icon
+{
+    border-radius: 5px;
+}
