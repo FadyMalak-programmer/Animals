@@ -3,8 +3,8 @@ body
     background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
     background-attachment: fixed;
+    color: white;
 }
 h1
 {
@@ -22,6 +22,7 @@ input
     width: 130px;
     height: 25px;
     border-radius: 10px;
+    border-style: inset;
     background-color: rgb(24, 23, 23);
 }
 .input
@@ -31,6 +32,7 @@ input
     text-align: justify;
     width: 275px;
     border-radius: 10px;
+    border-style: inset;
     background-color: rgb(24, 23, 23);
 }
 form
@@ -42,6 +44,7 @@ fieldset
     margin: 5px;
     border-radius: 20px;
     width: 290px;
+    background-color: rgba(39, 39, 39, 0.774);
 }
 .sign 
 {
@@ -62,9 +65,14 @@ footer
     text-size-adjust: 30px;
     text-align: center;
     color: rgb(255, 255, 255);
-    background-color: rgba(39, 39, 39, 0.705);
+    background-color: rgba(39, 39, 39, 0.774);
 }
 legend
 {
     text-align: center;
+    font-size: 20px;
+}
+img
+{
+    border-radius: 5px;
 }
