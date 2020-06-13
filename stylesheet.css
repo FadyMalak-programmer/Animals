@@ -52,7 +52,7 @@ fieldset
     height: 25px;
     text-align: center;
     border-radius: 10px;
-    background-color:rgb(24, 78, 11);
+    background-color:#eeff0057;
     font-size: 15px;
 }
 .radio
@@ -64,8 +64,8 @@ footer
 {
     text-size-adjust: 30px;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.301);;
-    color: black
+    color: black;
+    background-color: rgba(255, 255, 255, 0.199);
 }
 legend
 {
@@ -107,7 +107,7 @@ img
 
 .topnav a.active 
 {
-    background-color: #2196F3;
+    background-color: #71790e;
     color: white;
 }
 
