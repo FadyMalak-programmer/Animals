@@ -32,6 +32,10 @@ footer
 }
 table 
 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
     margin: 40px;
     padding: 30px;
     table-layout: fixed;
@@ -49,6 +53,7 @@ table tr td
 a
 {
     color: white;
+    font-style: normal;
 }
 img
 {
